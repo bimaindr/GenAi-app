@@ -4,6 +4,8 @@ GenAI-app adalah sebuah aplikasi web interaktif berbasis AI Agent. Aplikasi ini 
 
 Semua ini dibangun dalam antarmuka yang cepat dan ramah pengguna menggunakan Streamlit.
 
+Link: https://genai-app-lxswst6panxqsj7kk57zmx.streamlit.app/
+
 <img width="976" height="730" alt="Screenshot 2026-10-07 074446" src="https://github.com/user-attachments/assets/44c745b3-82fc-452d-a8b1-7a13b763b82c" />
 <img width="1072" height="438" alt="Screenshot 2026-10-07 074509" src="https://github.com/user-attachments/assets/610780b6-b043-4c17-ae54-d06ac4d535d3" />
 <img width="1008" height="861" alt="Screenshot 2026-10-07 074519" src="https://github.com/user-attachments/assets/acf4329b-0950-49ea-9dd1-485e21df6c39" />

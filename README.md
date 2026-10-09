@@ -79,4 +79,4 @@ Saran, perbaikan, dan fitur baru sangat diterima. Silakan fork repositori ini da
 
 📝 Lisensi
 
-Dibuat dengan ❤️ oleh bimaindr.
+Dibuat dengan oleh bimaindr.
